@@ -1,0 +1,11 @@
+ Bayle Shanks
+
+ L. M. Orchard:
+    contributed usemod_xmlrpc_cgi, from which
+    the general API was taken, as well as
+    much of the XML-RPC code in the old Perl release
+
+ David Jacoby:
+    parsing UseMod's RecentChanges in the old Perl release
+
+

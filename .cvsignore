@@ -1,0 +1,9 @@
+blib
+inc
+blib/*
+inc/*
+MANIFEST
+Wiki-Gateway-*
+META.yml
+Makefile
+pm_to_blib
